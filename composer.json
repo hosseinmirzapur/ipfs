@@ -1,0 +1,22 @@
+{
+    "name": "hossein/ipfs",
+    "type": "library",
+    "description": "This Package is Used to Save any Type of File into IPFS.",
+    "keywords": ["ipfs", "laravel", "framework", "web3"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hossein Mirzapur",
+            "email": "hosseinmirzapur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "hossein\\ipfs\\": "src/"
+        }
+    }
+}
