@@ -1,5 +1,5 @@
 {
-    "name": "hossein/ipfs",
+    "name": "hosseinmirzapur/ipfs",
     "type": "library",
     "description": "This Package is Used to Save any Type of File into IPFS.",
     "keywords": ["ipfs", "laravel", "framework", "web3"],
